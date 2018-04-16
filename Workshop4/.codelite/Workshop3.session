@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Session Name="/Users/rustyblewitt/Documents/BCompSci/1806ICT/Workshop3/Workshop3.workspace">
+  <int Value="7" Name="m_selectedTab"/>
+  <wxString Value="/Users/rustyblewitt/Documents/BCompSci/1806ICT/Workshop3/Workshop3.workspace" Name="m_workspaceName"/>
+  <TabInfoArray Name="TabInfoArray">
+    <TabInfo>
+      <wxString Value="/Users/rustyblewitt/Documents/BCompSci/1806ICT/Workshop3/question07/main.c" Name="FileName"/>
+      <int Value="16" Name="FirstVisibleLine"/>
+      <int Value="22" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="/Users/rustyblewitt/Documents/BCompSci/1806ICT/Workshop3/question08/main.c" Name="FileName"/>
+      <int Value="29" Name="FirstVisibleLine"/>
+      <int Value="41" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="/Users/rustyblewitt/Documents/BCompSci/1806ICT/Workshop3/question06/main.c" Name="FileName"/>
+      <int Value="34" Name="FirstVisibleLine"/>
+      <int Value="2" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="/Users/rustyblewitt/Documents/BCompSci/1806ICT/Workshop3/question09/main.c" Name="FileName"/>
+      <int Value="19" Name="FirstVisibleLine"/>
+      <int Value="30" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="/Users/rustyblewitt/Documents/BCompSci/1806ICT/Workshop3/question10/main.c" Name="FileName"/>
+      <int Value="28" Name="FirstVisibleLine"/>
+      <int Value="34" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="/Users/rustyblewitt/Documents/BCompSci/1806ICT/Workshop3/testDigitCount/main.c" Name="FileName"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="0" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="/Users/rustyblewitt/Documents/BCompSci/1806ICT/Workshop3/question11/main.c" Name="FileName"/>
+      <int Value="8" Name="FirstVisibleLine"/>
+      <int Value="17" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="/Users/rustyblewitt/Documents/BCompSci/1806ICT/Workshop3/question12/main.c" Name="FileName"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="0" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+  </TabInfoArray>
+  <SerializedObject Name="m_breakpoints">
+    <long Value="0" Name="Count"/>
+  </SerializedObject>
+</Session>
