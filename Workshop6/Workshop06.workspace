@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Workshop06" Database="" Version="10.0.0">
+  <Project Name="Question01" Path="Question01/Question01.project" Active="No"/>
+  <Project Name="Question02" Path="question02/question02.project" Active="No"/>
+  <Project Name="Question03" Path="question03/question03.project" Active="No"/>
+  <Project Name="Question04" Path="question04/question04.project" Active="No"/>
+  <Project Name="Question05" Path="Question05/Question05.project" Active="No"/>
+  <Project Name="Question06" Path="Question06/Question06.project" Active="No"/>
+  <Project Name="Question07" Path="question07/question07.project" Active="No"/>
+  <Project Name="Question08" Path="Question08/Question08.project" Active="No"/>
+  <Project Name="Question09" Path="Question09/Question09.project" Active="No"/>
+  <Project Name="Question10" Path="Question10/Question10.project" Active="No"/>
+  <Project Name="lecture6" Path="lecture6/lecture6.project" Active="No"/>
+  <Project Name="Question11" Path="Question11/Question11.project" Active="No"/>
+  <Project Name="Question12" Path="Question12/Question12.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="Question01" ConfigName="Debug"/>
+      <Project Name="Question02" ConfigName="Debug"/>
+      <Project Name="Question03" ConfigName="Debug"/>
+      <Project Name="Question04" ConfigName="Debug"/>
+      <Project Name="Question05" ConfigName="Debug"/>
+      <Project Name="Question06" ConfigName="Debug"/>
+      <Project Name="Question07" ConfigName="Debug"/>
+      <Project Name="Question08" ConfigName="Debug"/>
+      <Project Name="Question09" ConfigName="Debug"/>
+      <Project Name="Question10" ConfigName="Debug"/>
+      <Project Name="lecture6" ConfigName="Debug"/>
+      <Project Name="Question11" ConfigName="Debug"/>
+      <Project Name="Question12" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="Question01" ConfigName="Release"/>
+      <Project Name="Question02" ConfigName="Release"/>
+      <Project Name="Question03" ConfigName="Release"/>
+      <Project Name="Question04" ConfigName="Release"/>
+      <Project Name="Question05" ConfigName="Release"/>
+      <Project Name="Question06" ConfigName="Release"/>
+      <Project Name="Question07" ConfigName="Release"/>
+      <Project Name="Question08" ConfigName="Release"/>
+      <Project Name="Question09" ConfigName="Release"/>
+      <Project Name="Question10" ConfigName="Release"/>
+      <Project Name="lecture6" ConfigName="Release"/>
+      <Project Name="Question11" ConfigName="Release"/>
+      <Project Name="Question12" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
