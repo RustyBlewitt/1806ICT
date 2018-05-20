@@ -1,0 +1,70 @@
+Record 0:
+First Name: mavis
+Last Name: gertrude
+ID: 5132171
+English mark: 83.000000, grade: B
+Maths mark: 72.000000, grade: C
+Physics mark: 64.000000, grade: D
+Record 1:
+First Name: john
+Last Name: smith
+ID: 5216171
+English mark: 56.000000, grade: E
+Maths mark: 92.000000, grade: A
+Physics mark: 81.000000, grade: B
+Record 2:
+First Name: skip
+Last Name: chipperson
+ID: 5909291
+English mark: 54.000000, grade: E
+Maths mark: 45.000000, grade: F
+Physics mark: 91.000000, grade: A
+Record 3:
+First Name: mitchell
+Last Name: jackson
+ID: 6152512
+English mark: 32.000000, grade: F
+Maths mark: 42.000000, grade: F
+Physics mark: 73.000000, grade: C
+Record 4:
+First Name: don
+Last Name: mong
+ID: 5232617
+English mark: 76.000000, grade: C
+Maths mark: 84.000000, grade: B
+Physics mark: 65.000000, grade: D
+Record 5:
+First Name: james
+Last Name: dinmet
+ID: 5193281
+English mark: 64.000000, grade: D
+Maths mark: 43.000000, grade: F
+Physics mark: 22.000000, grade: F
+Record 6:
+First Name: hendy
+Last Name: steward
+ID: 5292123
+English mark: 87.000000, grade: B
+Maths mark: 56.000000, grade: E
+Physics mark: 91.000000, grade: A
+Record 7:
+First Name: donna
+Last Name: bromley
+ID: 5129219
+English mark: 22.000000, grade: F
+Maths mark: 92.000000, grade: A
+Physics mark: 99.000000, grade: A
+Record 8:
+First Name: slick
+Last Name: rick
+ID: 5572819
+English mark: 99.000000, grade: A
+Maths mark: 78.000000, grade: C
+Physics mark: 83.000000, grade: B
+Record 9:
+First Name: bennie
+Last Name: lowe
+ID: 5142617
+English mark: 77.000000, grade: C
+Maths mark: 82.000000, grade: B
+Physics mark: 67.000000, grade: D
